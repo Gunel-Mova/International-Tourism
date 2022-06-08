@@ -1,6 +1,5 @@
 # International-Tourism
 
-1  International tourism
 Tourism can be either domestic or international. The data refers to international tourism, where the traveler's country of residence differs from the visiting country. International tourism consists of inbound (arrival) and outbound (departures) tourism.
 
 1.1  Inbound tourists
